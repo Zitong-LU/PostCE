@@ -1,5 +1,5 @@
 # PostCE
-> Lu, Z., Geng, Z., Li, W., Zhu, S., & Jia, J. (2022). Evaluating Causes of Effects by Posterior Effects of Causes. Biometrika. https://doi.org/10.1093/biomet/asac038
+> Lu, Z., Geng, Z., Li, W., Zhu, S., & Jia, J. (2023). Evaluating causes of effects by posterior effects of causes. Biometrika, 110(2), 449–465. https://doi.org/10.1093/biomet/asac038
 
 Simple python code to calculate Posterior Total Causal Effect (PostTCE) and Posterior Direct Causal Effect (PostDCE).
 
