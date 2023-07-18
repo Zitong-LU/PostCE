@@ -1,7 +1,7 @@
 # PostCE
- Simple python code to calculate Posterior Total Causal Effect (PostTCE) and Posterior Direct Causal Effect (PostDCE).
+> Lu, Z., Geng, Z., Li, W., Zhu, S., & Jia, J. (2022). Evaluating Causes of Effects by Posterior Effects of Causes. Biometrika. https://doi.org/10.1093/biomet/asac038
 
- > Lu, Z., Geng, Z., Li, W., Zhu, S., & Jia, J. (2022). Evaluating Causes of Effects by Posterior Effects of Causes. Biometrika. https://doi.org/10.1093/biomet/asac038
+Simple python code to calculate Posterior Total Causal Effect (PostTCE) and Posterior Direct Causal Effect (PostDCE).
 
 ## Description
 
